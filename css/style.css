@@ -26,6 +26,7 @@ h2{
     font-weight: bold;
     font-size: 36px;
     position: relative;left:626px;bottom: 410px;
+    width: 500px;
 }
 p{
     font-size: 24px;
@@ -39,4 +40,7 @@ div{
 button{
     border-radius: 5px;
     font-size: 21px;
+}
+section{
+    height: 840px;
 }
