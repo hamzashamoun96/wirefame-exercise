@@ -1,0 +1,42 @@
+header,footer{
+    background-color: darkgrey;
+    height: 110px;
+}
+footer{
+    margin-top: 26px;
+}
+header img{
+    position: relative;top: 20px;left: 120px;
+}
+nav , li {
+    position: relative;bottom: 6px;left: 120px;
+    display: inline-block;
+    padding-right: 90px;
+
+}
+a{
+    text-decoration: none;
+}
+main img{
+    position: relative;left: 120px;
+    padding-right:26px;
+    padding-top: 26px;
+}
+h2{
+    font-weight: bold;
+    font-size: 36px;
+    position: relative;left:626px;bottom: 410px;
+}
+p{
+    font-size: 24px;
+}
+div{
+    width: 480px;
+    height: 390px;
+    position: relative;left:626px;bottom: 410px;
+    overflow: scroll;
+}
+button{
+    border-radius: 5px;
+    font-size: 21px;
+}
